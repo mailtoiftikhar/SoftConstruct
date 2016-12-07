@@ -8,6 +8,7 @@ public class myClass {
 		
 		//assert true: "Hello";
 		assert false: "You are not wellcome";
+		//I have done it for GIT
 	}
 
 }
