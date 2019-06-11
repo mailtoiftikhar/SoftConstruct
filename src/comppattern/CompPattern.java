@@ -30,6 +30,10 @@ public class CompPattern {
             root.remove(leaf);
         // Recursively display tree 
         root.display(1);
+        // This change is in the version2
+        root.display(2);
+        // This is another version
+        root.display(3);
     }
     
 }
